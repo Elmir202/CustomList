@@ -1,0 +1,15 @@
+C:\Users\99451\Desktop\Tasks\CustomList\CustomList\bin\Debug\net6.0\CustomList2.exe
+C:\Users\99451\Desktop\Tasks\CustomList\CustomList\bin\Debug\net6.0\CustomList2.deps.json
+C:\Users\99451\Desktop\Tasks\CustomList\CustomList\bin\Debug\net6.0\CustomList2.runtimeconfig.json
+C:\Users\99451\Desktop\Tasks\CustomList\CustomList\bin\Debug\net6.0\CustomList2.dll
+C:\Users\99451\Desktop\Tasks\CustomList\CustomList\bin\Debug\net6.0\CustomList2.pdb
+C:\Users\99451\Desktop\Tasks\CustomList\CustomList\obj\Debug\net6.0\CustomList2.csproj.AssemblyReference.cache
+C:\Users\99451\Desktop\Tasks\CustomList\CustomList\obj\Debug\net6.0\CustomList2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99451\Desktop\Tasks\CustomList\CustomList\obj\Debug\net6.0\CustomList2.AssemblyInfoInputs.cache
+C:\Users\99451\Desktop\Tasks\CustomList\CustomList\obj\Debug\net6.0\CustomList2.AssemblyInfo.cs
+C:\Users\99451\Desktop\Tasks\CustomList\CustomList\obj\Debug\net6.0\CustomList2.csproj.CoreCompileInputs.cache
+C:\Users\99451\Desktop\Tasks\CustomList\CustomList\obj\Debug\net6.0\CustomList2.dll
+C:\Users\99451\Desktop\Tasks\CustomList\CustomList\obj\Debug\net6.0\refint\CustomList2.dll
+C:\Users\99451\Desktop\Tasks\CustomList\CustomList\obj\Debug\net6.0\CustomList2.pdb
+C:\Users\99451\Desktop\Tasks\CustomList\CustomList\obj\Debug\net6.0\CustomList2.genruntimeconfig.cache
+C:\Users\99451\Desktop\Tasks\CustomList\CustomList\obj\Debug\net6.0\ref\CustomList2.dll
